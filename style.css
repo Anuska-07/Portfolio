@@ -9,7 +9,7 @@ body{
     color:#ffffff;
     font-family:cursive;
     display: grid;
-    grid-template-rows: 1fr 8fr 1fr;
+    grid-template-rows: 1fr 7.3fr 1fr;
     grid-template-areas: 'menu' 'section' 'footer';
 }
 nav{
