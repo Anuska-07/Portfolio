@@ -158,3 +158,6 @@ input[type=submit]:hover{
 .about_img{
     clip-path: circle(40%); 
 }
+.email:hover{
+    color: rgba(179, 160, 224, 0.521) ;
+}
