@@ -156,5 +156,5 @@ input[type=submit]:hover{
     color: #000000;
 }
 .about_img{
-    clip-path: circle(40%);
+    clip-path: circle(40%); 
 }
