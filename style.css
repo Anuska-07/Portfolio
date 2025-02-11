@@ -105,6 +105,7 @@ footer{
 }
 .intro{
     font-size: 80px;
+    margin-top: 500px;
 }
 .Form{
     margin-top: 40px;
@@ -155,8 +156,19 @@ input[type=submit]:hover{
     background-color: #FAF6F0;
     color: #000000;
 }
+.A{
+    display: grid;
+    grid-template:'img des'
+    'emp skills';
+}
+.description{
+    grid-area: des;
+    margin-top: 170px;
+}
 .about_img{
-    clip-path: circle(40%); 
+    clip-path: circle(40%);
+    width: 450px; 
+    grid-area: img;
 }
 .email:hover{
     color: rgba(179, 160, 224, 0.521) ;
